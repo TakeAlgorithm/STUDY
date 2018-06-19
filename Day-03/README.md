@@ -1,4 +1,4 @@
-# Day-02
+# Day-03
 ## 백준알고리즘
 * 주사위 굴리기 - https://www.acmicpc.net/problem/14499
 * 테크로미노 - https://www.acmicpc.net/problem/14500
